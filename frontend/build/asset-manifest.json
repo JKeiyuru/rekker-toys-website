@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cc12e8e.css",
+    "main.js": "/static/js/main.e0e92015.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/toys_banner.jpg": "/static/media/toys_banner.fb53f1d876f3adb76362.jpg",
+    "static/media/hero.jpg": "/static/media/hero.bccd56b8969be9fd3da1.jpg",
+    "static/media/toy2.jpg": "/static/media/toy2.cd11de3980cf11962632.jpg",
+    "static/media/toy1.jpg": "/static/media/toy1.7cb765d863d7454d6a25.jpg",
+    "static/media/stationery_banner.jpg": "/static/media/stationery_banner.440ccab5c03cfe402aa2.jpg",
+    "static/media/kitchenware_banner.jpg": "/static/media/kitchenware_banner.c1ec62f0c1dfc04d9120.jpg",
+    "static/media/exclusive_image.jpg": "/static/media/exclusive_image.4848db0a2da2c2972dd4.jpg",
+    "static/media/ut1.jpg": "/static/media/ut1.eba1815aafa972331aac.jpg",
+    "static/media/hand-icon.jpg": "/static/media/hand-icon.e4287ca0b3642654b69d.jpg",
+    "static/media/Logo2.png": "/static/media/Logo2.84219217247f937bf0a1.png",
+    "index.html": "/index.html",
+    "main.2cc12e8e.css.map": "/static/css/main.2cc12e8e.css.map",
+    "main.e0e92015.js.map": "/static/js/main.e0e92015.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cc12e8e.css",
+    "static/js/main.e0e92015.js"
+  ]
+}
