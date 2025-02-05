@@ -1,4 +1,4 @@
-const port = 4000;
+const port = process.env.PORT ||4000;
 const express = require("express")
 const app = express();
 const mongoose = require("mongoose")
@@ -13,7 +13,8 @@ app.use(express.json());
 app.use(cors())
 
 //Database Connection with MongoDB
-mongoose.connect("mongodb+srv://josephkeiyuru:newecommerce1@cluster0.hu7ta.mongodb.net/NewEcommerce")
+// mongoose.connect("mongodb+srv://josephkeiyuru:newecommerce1@cluster0.hu7ta.mongodb.net/NewEcommerce")
+// Connect a new DataBase above
 
 //API Creation
 

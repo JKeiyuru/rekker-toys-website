@@ -18,7 +18,7 @@ const Footer = () => {
                 <li>Offices</li>
                 <li>About</li>
                 <li>Contact</li>
-            </ul>
+            </ul>  
             <div className="footer-social-icons">
                 <div className="footer-icons-container">
                     <img src={instagram_icon} alt="" />
