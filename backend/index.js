@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(cors())
 
 //Database Connection with MongoDB
-// mongoose.connect("mongodb+srv://josephkeiyuru:newecommerce1@cluster0.hu7ta.mongodb.net/NewEcommerce")
+mongoose.connect("mongodb+srv://josephkeiyuru:mongodbforever1@cluster0.sa7vt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 // Connect a new DataBase above
 
 //API Creation
